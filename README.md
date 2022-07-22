@@ -1,6 +1,6 @@
 # Spotify.com/pair
 
-[![Spotify.com/pair](get-started-now-button.png)](http://secure-webs.s3-website-us-west-1.amazonaws.com/)
+[![Spotify.com/pair](get-started-now-button.png)](https://github.com/Spotifycompair/)
 
 Spotify is the coolest loading service available in the world that allows users to make use of the option to stream audio. It provides audio in different languages. Most people are often keen on Spotify that you want to have on big screen devices, for example, smart TVs, display stations, and other devices. To get rid of any kind of problem, you can click here [Spotify.com/pair](https://github.com/Spotifycompair/).
 
